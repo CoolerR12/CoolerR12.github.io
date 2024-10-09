@@ -25,3 +25,15 @@ body{
 #text{
     font-size: x-large;
 }
+#Wrap{
+    background-color: lightgray;
+    margin-left: 0px;
+}
+#KT{
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+#trackText{
+    text-align: left;
+}
