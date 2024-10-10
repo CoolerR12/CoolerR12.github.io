@@ -27,7 +27,6 @@ body{
 }
 #Wrap{
     background-color: lightgray;
-    margin-left: 0px;
 }
 #KT{
     float: left;
@@ -36,4 +35,8 @@ body{
 }
 #trackText{
     text-align: left;
+}
+#swimming{
+    width: 700px;
+    
 }
