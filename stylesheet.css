@@ -1,4 +1,7 @@
-
+body{
+    margin-left: 350px;
+    margin-right: 350px;
+}
 #Keaney{
     float: left;
     margin-right: 10px;
@@ -20,8 +23,6 @@
 }
 #text{
     font-size: x-large;
-    margin-left: 350px;
-    margin-right: 350px;
     display: inline-block;  
 }
 #Wrap{
