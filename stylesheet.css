@@ -24,6 +24,8 @@ body{
 }
 #text{
     font-size: x-large;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 #Wrap{
     background-color: lightgray;
@@ -39,4 +41,7 @@ body{
 #swimming{
     width: 700px;
     
+}
+h1{
+    size: larger;
 }
