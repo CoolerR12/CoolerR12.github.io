@@ -1,8 +1,4 @@
-body{
-   margin-left: 350px;
-    margin-right: 350px;
-    display: inline-block;   
-}
+
 #Keaney{
     float: left;
     margin-right: 10px;
@@ -24,8 +20,9 @@ body{
 }
 #text{
     font-size: x-large;
-    margin-left: 10px;
-    margin-right: 10px;
+    margin-left: 350px;
+    margin-right: 350px;
+    display: inline-block;  
 }
 #Wrap{
     background-color: lightgray;
