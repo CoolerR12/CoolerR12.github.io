@@ -27,6 +27,8 @@ body{
 }
 #Wrap{
     background-color: lightgray;
+    margin-left: 350px;
+    margin-right: 350px;
 }
 #KT{
     float: left;
